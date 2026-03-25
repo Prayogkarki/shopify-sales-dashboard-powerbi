@@ -98,6 +98,9 @@ The objective of this project is to:
 ### 🔹 Dashboard Overview
 ![Overview](dashboard_screenshots/overview_dashboard.png)
 
+### 🔹 Details Tab
+![Details](dashboard_screenshots/details_tab.png)
+
 ### 🔹 Regional Analysis
 ![Region](dashboard_screenshots/regional_and_province.png)
 
