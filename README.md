@@ -96,16 +96,16 @@ The objective of this project is to:
 ## 📸 Screenshots
 
 ### 🔹 Dashboard Overview
-![Overview](screenshots/overview.png)
+![Overview](dashboard_screenshots/overview_dashboard.png)
 
 ### 🔹 Regional Analysis
-![Region](screenshots/region.png)
+![Region](dashboard_screenshots/regional_and_province.png)
 
 ### 🔹 Sales Trends
-![Trends](screenshots/trends.png)
+![Trends](dashboard_screenshots/sales_trends_over_time.png)
 
 ### 🔹 Product & Payment Insights
-![Insights](screenshots/insights.png)
+![Insights](dashboard_screenshots/net_sales_by_payment_gateways.png)
 
 ---
 
